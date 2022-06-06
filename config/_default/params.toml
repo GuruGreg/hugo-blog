@@ -115,7 +115,7 @@ viewer = true # Image Viewer
   # sa = true # Adaptations must be shared under the same terms.
 
 [utterances]
-  repo = "razonyang/hugo-theme-bootstrap-comments" # Replace with your repository.
+  # repo = "razonyang/hugo-theme-bootstrap-comments" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
   #label = "comment"
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -136,8 +136,8 @@ viewer = true # Image Viewer
     # useExtendedSearch = true
 
 [reward]
-  alipay = "images/reward/alipay.png"
-  wechat = "images/reward/wechat.png"
+  # alipay = "images/reward/alipay.png"
+  # wechat = "images/reward/wechat.png"
   #paypal = "images/reward/paypal.png"
   #patreon = "images/reward/patreon.png"
   #liberapay = "images/reward/liberapay.png"
@@ -154,7 +154,7 @@ viewer = true # Image Viewer
 [pwa]
   [pwa.manifest]
     # name = "" # Default to site title.
-    short_name = "HBS"
+    # short_name = "HBS"
     # display = "fullscreen" # Default to standalone.
     # description = "" # Default to site description.
     # theme_color = ""
@@ -169,7 +169,7 @@ viewer = true # Image Viewer
     #   src = "/images/icons/icon-144x144.png"
 
 [contact]
-  endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend endpoint, remove this line if you're using Netlify.
+  # endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend endpoint, remove this line if you're using Netlify.
   # file = true # Enable file upload
   # fileField = "image" # The name of file field.
 
