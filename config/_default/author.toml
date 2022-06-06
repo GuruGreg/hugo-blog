@@ -1,9 +1,9 @@
-name = "Razon Yang"
+name = "Greg Nilsen"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Gopher, PHPer, Full Stack Engineer."
-company = 'Company'
+bio = "Product Leader and Coach"
+# company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
-location = "Earth"
+location = "Pittsburgh"
 # alternatives:
 # location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
 # location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
@@ -13,8 +13,7 @@ location = "Earth"
   #layout = "compact"
 
 [social]
-  email = "user@domain.tld"
-  facebook = "yourfacebookusername"
-  github = "yourgithubusername"
-  twitter = "yourtwitterusername"
+  email = "nilsen.greg@gmail.com"
+  github = "GuruGreg"
+  twitter = "@GregNilsen"
   # rss = "" # Disable RSS link
