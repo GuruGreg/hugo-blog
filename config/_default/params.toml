@@ -1,4 +1,4 @@
-mainSections = ["posts", "docs"] # Default to ["posts"].
+mainSections = ["posts"] # Default to ["posts"].
 
 # titleSeparator = "|" # Title separator. Default to "-".
 
@@ -181,4 +181,4 @@ viewer = true # Image Viewer
 
 [fullWidth]
   post = false
-  docs = true
+  docs = false

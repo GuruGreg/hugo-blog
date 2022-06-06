@@ -15,5 +15,5 @@ location = "Pittsburgh"
 [social]
   email = "nilsen.greg@gmail.com"
   github = "GuruGreg"
-  twitter = "@GregNilsen"
-  # rss = "" # Disable RSS link
+  twitter = "GregNilsen" 
+  linkedin = "GregNilsen"
