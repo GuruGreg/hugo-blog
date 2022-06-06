@@ -1,5 +1,5 @@
 name = "Greg Nilsen"
-# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+avatar = "images/greg.png" # Avatar image. Default to "images/profile.webp".
 bio = "Product Leader and Coach"
 # company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
