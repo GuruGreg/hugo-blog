@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo"]
-author = "Hugo Authors"
+description = "Greg Nilsen, Product Leader and Coach"
+date = "2022-06-06"
+aliases = ["about-us"]
+author = "Greg Nilsen"
 reward = false
 postDate = false
 readingTime = false
