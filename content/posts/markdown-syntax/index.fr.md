@@ -12,7 +12,6 @@ tags = [
   "HTML",
 ]
 series = [
-  "Docs"
 ]
 aliases = ["migrate-from-jekyl"]
 images = [

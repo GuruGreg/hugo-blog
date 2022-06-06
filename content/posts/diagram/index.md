@@ -15,7 +15,6 @@ tags = [
   "Diagram"
 ]
 series = [
-  "Docs"
 ]
 +++
 

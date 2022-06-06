@@ -12,7 +12,6 @@ tags = [
   "HTML",
 ]
 series = [
-  "التوثيق"
 ]
 aliases = ["migrate-from-jekyl"]
 images = [
