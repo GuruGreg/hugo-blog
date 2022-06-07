@@ -19,8 +19,8 @@ palettes = [] # Disable palette switcher.
 
 color = "dark" # light, dark or dynamic. Default to dynamic.
 
-# fullWidth = true # Full width.
-fixedHeader = true # Turn on/off fixed header.
+fullWidth = false # Full width.
+# fixedHeader = true # Turn on/off fixed header.
 
 # dateFormat = "Jan 2, 2006"
 
