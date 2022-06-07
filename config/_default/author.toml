@@ -13,7 +13,7 @@ location = "Pittsburgh"
   #layout = "compact"
 
 [social]
-  email = "nilsen.greg@gmail.com"
+  #email = "nilsen.greg@gmail.com"
   github = "GuruGreg"
   twitter = "GregNilsen" 
   linkedin = "GregNilsen"
