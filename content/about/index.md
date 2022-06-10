@@ -10,20 +10,28 @@ readingTime = false
 copyright = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I hate “About Me” pages.  Well, at least I hate writing them.  How do I distil my existence into a few interesting paragraphs and some bullet points?  But how else do you know that my writings here are worth reading?
 
-Hugo makes use of a variety of open source projects including:
+Anyway, let’s try to give it a shot….
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I went to grad school to work on my PhD in Computer Science with a focus on AI and ML, but after a few years grew tired of the theoretical work, finished my Masters, and moved into the workforce.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+After a few development roles with different companies, after 7 years I inadvertently transitioned into Product Management when I looked around and was managing a single product with a team of developers, sales, business analysts and support.  It was in that role that I first transitioned the product into new market opportunities.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+But then, in looking for my next challenge, I ended up doing a 4-year stint of Project Management.  While it was tremendously eye-opening and a great learning opportunity (especially when it comes to structure and consistency), the repeated investment with a client, only to move on when the project was complete, took its toll on me as I yearned to return to Product Management.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I then joined a team with no exposure to Product Management, and began working with them to better understand customer needs, improve transparency in the work that was being done, and re-prioritize the backlog to grow and improve our business.  That went so well that shortly I was managing a team of Product Managers, with the occasional UX professional, across multiple products in our organization.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Altogether that amounts to:
+* 10+ years of product management
+* 5+ years of leading product teams
+* 4+ years of project management
+* 7 years of software development
+
+While I’ve had blogs in the past (and it’s been several years since I last gave it some effort), what I wanted to do with a re-launch of the blog is to really dive into the work and experiences of Product Management.  I’ll share some of my thoughts on the profession, best practices I’ve found helpful, and insight into the inspirations that drive me.
+
+Hopefully, you’ll find that useful.  If you do, I encourage you to leave a comment, a note, or give me a ping on Twitter or LinkedIn.
+
+Thanks for reading!
+
+-Greg Nilsen
