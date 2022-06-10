@@ -8,6 +8,7 @@ reward = false
 postDate = false
 readingTime = false
 copyright = false
+comment = true
 +++
 
 I hate “About Me” pages.  Well, at least I hate writing them.  How do I distil my existence into a few interesting paragraphs and some bullet points?  But how else do you know that my writings here are worth reading?
