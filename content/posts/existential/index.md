@@ -1,7 +1,7 @@
 +++
 title = "The Product Manager's Mini-Existential Crisis"
 description = "Explaining to Friends and Family What You Do"
-date = 2021-09-01T11:36:50+08:00
+date = 2022-06-10T16:00:00-05:00
 featured = false
 draft = false
 comment = true
@@ -9,10 +9,10 @@ toc = true
 reward = true
 diagram = true
 categories = [
-  "Markdown"
+  "Product Management"
 ]
 tags = [
-  "Diagram"
+  "Basics"
 ]
 series = [
 ]
@@ -26,7 +26,7 @@ Just a few months ago, I overheard my wife get asked what I did for a living.  H
 
 I just had to chuckle a little bit.  It’s not an easy question for me to answer either.
 
-Because if I could answer “I’m a doctor”, “I’m a lawyer”, “I’m a nurse”, “I build <insert thing here>”, or “I’m a software developer”, you’d probably be satisfied (and maybe have a follow up of “Hey, could you look at…” or “My computer’s been acting weird…”).  But “I’m a Product Manager” doesn’t really answer any questions.  In fact, you’re more likely to get “What’s that?” as a response.
+Because if I could answer “I’m a doctor”, “I’m a lawyer”, “I’m a nurse”, “I build [insert thing here]”, or “I’m a software developer”, you’d probably be satisfied (and maybe have a follow up of “Hey, could you look at…” or “My computer’s been acting weird…”).  But “I’m a Product Manager” doesn’t really answer any questions.  In fact, you’re more likely to get “What’s that?” as a response.
 
 And some of that is because Product Management isn’t a “do-er” role.  We don’t make the software.  We don’t provide the support.  We don’t sell the product.  We don’t create the marketing.  We don’t keep the books.  Yet, we’re involved in all of it.
 
